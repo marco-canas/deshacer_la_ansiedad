@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2024-08-01",
+        "time": "10:00",
+        "interaction": "Reuni\u00f3n con colegas",
+        "rating": 6,
+        "notes": "Sent\u00ed ansiedad al hablar en p\u00fablico.",
+        "feelings": [
+            "Ansiedad",
+            "Inquietud",
+            "Temor"
+        ]
+    },
+    {
+        "date": "2024-08-02",
+        "time": "12:00",
+        "interaction": "Almuerzo con un amigo",
+        "rating": 3,
+        "notes": "Me sent\u00ed bastante c\u00f3modo.",
+        "feelings": [
+            "Comodidad",
+            "Relajaci\u00f3n"
+        ]
+    }
+]
